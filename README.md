@@ -8,7 +8,6 @@ For executing the program , You can use IDEs like  IntelliJ / NetBeans / Eclipse
  Or you can Execute via CMD by "javac" and "java" commands on the javafile named : << DigitCounter.java >> from "src" folder .
  
  ---
- 
  GooDLucK ;) 
- -- 
- Don't forget to give * to me :)
+ Don't forget to give * :)
+ ---
